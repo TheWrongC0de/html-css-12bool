@@ -1,0 +1,34 @@
+
+
+.col-1{
+  border: 1px solid black;
+  background-color: pink;
+}
+.col-12{
+  background-color: pink;
+  border: 1px solid black;
+}
+.col-12 p{
+  text-align: center;
+}
+.col-8{
+  background-color: pink;
+  border: 1px solid black;
+}
+.col-8 p{
+  text-align: center;
+}
+.col-2{
+  background-color: pink;
+  border: 1px solid black;
+}
+.col-2 p{
+  text-align: center;
+}
+.col-6{
+  background-color: pink;
+  border: 1px solid black;
+}
+.col-6 p{
+  text-align: center;
+}
